@@ -2,3 +2,8 @@ out
 node_modules
 .vscode-test/
 *.vsix
+<<<<<<< Updated upstream
+=======
+auto-remove.gif
+README.md
+>>>>>>> Stashed changes
